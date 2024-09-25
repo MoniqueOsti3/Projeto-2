@@ -1,7 +1,7 @@
 const scenes = {
     start: {
         text: "Você inicia sua aventura no Rio de Janeiro. A cidade está vibrante com turistas e moradores. Para onde você quer ir?",
-        img: "https://example.com/rio-de-janeiro.jpg",  // Insira uma URL válida
+        img: "https://jpimg.com.br/uploads/2023/05/turismo-no-rio-de-janeiro-veja-o-que-visitar-na-cidade-maravilhosa.jpg",  // Insira uma URL válida
         choices: [
             { text: "Explorar o Cristo Redentor", nextScene: "cristo" },
             { text: "Ir para a Floresta Amazônica", nextScene: "amazonia" }
